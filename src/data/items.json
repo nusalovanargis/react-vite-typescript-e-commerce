@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Range Rover",
+    "price": 10000,
+    "imgUrl": "/imgs/rangerover.jpeg"
+  },
+  {
+    "id": 2,
+    "name": "Mercedes",
+    "price": 11990,
+    "imgUrl": "/imgs/mercedes.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Hyper",
+    "price": 15000,
+    "imgUrl": "/imgs/carhpyer.jpg"
+  },
+  {
+    "id": 4,
+    "name": "BMW",
+    "price": 14000,
+    "imgUrl": "/imgs/bmw.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Range Rover",
+    "price": 10000,
+    "imgUrl": "/imgs/rangerover.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Hyper",
+    "price": 10000,
+    "imgUrl": "/imgs/carhpyer.jpg"
+  },
+  {
+    "id": 7,
+    "name": "BMW",
+    "price": 10000,
+    "imgUrl": "/imgs/bmw.jpg"
+  }
+]
